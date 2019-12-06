@@ -106,10 +106,7 @@
 |问题|解决了吗？|
 |---|---|
 |一|yes|
-|:broken_heart:
-:heartbeat:
-:heartpulse:
-:two_hearts:
+|:broken_heart: :heartbeat: :heartpulse: :two_hearts:
 :revolving_hearts:
 :cupid:|
 ># 问题1   
