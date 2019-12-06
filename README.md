@@ -113,7 +113,7 @@
 --------------------------------------------------------------
 # 解决办法
 
-`给命令的参数+双""`
-`mvn install:install-file "-DgroupId=li" "-DartifactId=hutool-all" "-Dversion=5.0.7" "-Dfile=hutool-all-5.0.7.jar" "-Dpackaging=jar"  
-`
+`给命令的参数+双""`   
+>mvn install:install-file "-DgroupId=li" "-DartifactId=hutool-all" "-Dversion=5.0.7" "-Dfile=hutool-all-5.0.7.jar" "-Dpackaging=jar"  
+
 
