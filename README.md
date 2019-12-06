@@ -12,7 +12,7 @@ maven常见问题与解决方案
 解决办法
 --------------------------------------------------------------
 给参数加引号
-mvn install:install-file "-DgroupId=li.kun" "-DartifactId=hutool-all" "-Dversion=5.0.7" "-Dfile=hutool-all-5.0.7.jar" "-Dpackaging=jar"
+mvn install:install-file "-DgroupId=li" "-DartifactId=hutool-all" "-Dversion=5.0.7" "-Dfile=hutool-all-5.0.7.jar" "-Dpackaging=jar"
 执行结果
 BUILD SUCCESS
 ---------------------------------------------------------------
