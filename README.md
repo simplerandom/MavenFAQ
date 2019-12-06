@@ -1,7 +1,7 @@
 # MavenFAQ
 maven常见问题与解决方案
 --------------
-# 1
+# 问题一
 [ERROR] The goal you specified requires a project to execute but there is no POM in this directory (D:\myapplication). Please verify you invoked Maven from the correct directory. -> [Help 1]
 [ERROR]
 [ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
@@ -9,7 +9,7 @@ maven常见问题与解决方案
 [ERROR]
 [ERROR] For more information about the errors and possible solutions, please read the following articles:
 [ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MissingProjectException
-解决办法
+解决办法https://www.cnblogs.com/zhexuejun/p/11525623.html
 --------------------------------------------------------------
 给参数加引号
 mvn install:install-file "-DgroupId=li" "-DartifactId=hutool-all" "-Dversion=5.0.7" "-Dfile=hutool-all-5.0.7.jar" "-Dpackaging=jar"
