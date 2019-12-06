@@ -98,6 +98,10 @@
 :shit:
 
 ---
+
+![hello](https://images.pexels.com/photos/3224156/pexels-photo-3224156.jpeg?cs=srgb&dl=photo-of-mountain-during-dawn-3224156.jpg&fm=jpg)
+---
+
 ![PICTURE](https://maven.apache.org/images/apache-maven-project.png)
 # Maven常见问题与解决方案
 ># 问题1   
