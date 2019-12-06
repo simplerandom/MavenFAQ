@@ -108,11 +108,12 @@
 [ERROR]
 [ERROR] For more information about the errors and possible solutions, please read the following articles:
 [ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MissingProjectException<br/>
-# 解决办法来源 :point_right: https://www.cnblogs.com/zhexuejun/p/11525623.html
+# 解决办法来源   
+:point_right: https://www.cnblogs.com/zhexuejun/p/11525623.html
 --------------------------------------------------------------
 # 解决办法
 
-`给命令的参数+双""`   
+># 给命令的参数+双引号   
 >mvn install:install-file "-DgroupId=li" "-DartifactId=hutool-all" "-Dversion=5.0.7" "-Dfile=hutool-all-5.0.7.jar" "-Dpackaging=jar"  
 
 
