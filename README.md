@@ -104,7 +104,7 @@
 ![PICTURE](https://maven.apache.org/images/apache-maven-project.png)
 # Maven常见问题与解决方案
 |问题|解决了吗？|
-|---|---|
+|:---:|:---:|
 |一|yes|
 |:broken_heart: :heartbeat: :heartpulse: :two_hearts:
 :revolving_hearts:
