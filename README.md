@@ -112,11 +112,11 @@
 # 解决办法来源 :point_right: https://www.cnblogs.com/zhexuejun/p/11525623.html
 --------------------------------------------------------------
 # 解决办法
-``
+```
 `给参数加引号`
 mvn install:install-file "-DgroupId=li" "-DartifactId=hutool-all" "-Dversion=5.0.7" "-Dfile=hutool-all-5.0.7.jar" "-Dpackaging=jar"  
 
 `执行结果`   
 
-BUILD SUCCESS``
+BUILD SUCCESS```
 
